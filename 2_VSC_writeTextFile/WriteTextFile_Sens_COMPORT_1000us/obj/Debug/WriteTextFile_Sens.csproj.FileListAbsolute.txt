@@ -1,0 +1,46 @@
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\bin\Debug\WriteTextFile_Sens.exe.config
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\bin\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\bin\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.csproj.AssemblyReference.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.Form1.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.Properties.Resources.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.csproj.GenerateResource.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.csproj.CoreCompileInputs.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens\obj\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\bin\Debug\WriteTextFile_Sens.exe.config
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\bin\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\bin\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.csproj.AssemblyReference.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.Form1.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.Properties.Resources.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.csproj.GenerateResource.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.csproj.CoreCompileInputs.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT\obj\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\WriteTextFile_Sens.exe.config
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.csproj.AssemblyReference.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.Form1.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.Properties.Resources.resources
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.csproj.GenerateResource.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.csproj.CoreCompileInputs.cache
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.exe
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTextFile_Sens.pdb
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\ZedGraph.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\ZedGraph.xml
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BaoThuan\OneDrive - The University of Technology\Desktop\PROJECT\GIT_HUB\0_DoCB_DKDC\2_VSC_writeTextFile\WriteTextFile_Sens_COMPORT - Copy\obj\Debug\WriteTex.3861FB4A.Up2Date

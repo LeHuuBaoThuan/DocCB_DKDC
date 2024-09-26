@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;0_main_prj_Mutex/0_main_prj_Semaphore.ioc&apos; to &apos;0_main_prj_Mutex.ioc&apos;" description="Rename resource &apos;0_main_prj_Semaphore.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="0_main_prj_Semaphore.ioc" name="0_main_prj_Mutex.ioc" stamp="1726292690794" updateReferences="true"/>
+</session>

@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA_35Hz Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj_Semaphore Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj_Luin Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2_ADS1115_8to860SPS Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_usb Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:testKit_Nucleo Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blink Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:4_mcp3204Test1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA_updateSprintfStr Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj_Mutex Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj_tmrSW Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA_TestTask Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:0_main_prj\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA_10Hz_Test_VTr\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_testADC_DMA_35Hz\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1b_testADC_DMA_TEST\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2_ADS1115_8to860SPS\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_usb\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blink\ Debug/activeLaunchMode=debug
